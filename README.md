@@ -1,4 +1,4 @@
-# Five Things You Should Know
+# Five Things a Developer Should Know
 
 Five Things You Should Know Before Applying to a Developer-Job-Interview.
 
