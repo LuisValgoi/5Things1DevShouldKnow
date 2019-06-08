@@ -1,2 +1,2 @@
-# fivethingsyoushouldknow
-Five Things You Should Know before Applying for a Developer-Job-Interview.
+# Five Things You Should Know Before Applying For a Developer-Job-Interview
+Check our [wiki]().
