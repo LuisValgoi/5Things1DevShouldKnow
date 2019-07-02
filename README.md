@@ -5,16 +5,6 @@ To increase the knowledge of juniors developers so they can find themselves in a
 If you want to contribute with this repo with a new comment, typo-fix, new content... simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
 
 
-# FAQs
-Do you want to learn more about:
-- [Data Types like Arrays, Linked Lists, Stacks, Queues, Trees, Hashs... ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#summary)
-- [OOP like Abstract Classes, Interfaces, Encapsulation, Inheritance, Polymorphism... ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#summary)
-- [Development Concepts like WebService, REST, SOAP, WebSocket, JDBC, JPA, ORM, i18n, l10n... ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#summary)
-- [Development Principles like DRY, KISS, YAGNI, SOLID, GRASP and Clean Code ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#summary)
-- [Architecture Patterns like Dependency Injection, Containers, Gang Of Four ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#summary)
-- [Refactoring like Bloaters, Abusers, Dispensables and how to use them ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#summary)
-
-
 # Structure
 All the knowledge contained in here, is disposed on these main topics: 
 
@@ -76,7 +66,7 @@ All the knowledge contained in here, is disposed on these main topics:
     - [Roadmap](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#roadmap)
     - [Sprint Review](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#sprint-review)
     - [Retrospective](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#retrospective)
-  - 🚥 [DevOps]()
+  - 🚥 [DevOps](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#-summary)
     - [Continuos Integration](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#continuos-integration)
     - [Continuous Delivery](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#continuous-delivery)
     - [Continuous Deployment](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#continuous-deployment)
