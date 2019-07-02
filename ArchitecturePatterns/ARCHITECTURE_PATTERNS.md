@@ -6,6 +6,9 @@
 - [Dependency Injection Container](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#dependency-injection-container)
 - [J2EE Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#j2ee-patterns)
 - [GoF Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns)
+  - [GoF Patterns Creational](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns---creational)
+  - [GoF Patterns Structural](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns---structural)
+  - [GoF Patterns Behavior](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns---behavioral)
 ---
 ---
 ---
