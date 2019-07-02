@@ -1,7 +1,7 @@
 # Motivation
 To increase the knowledge of juniors developers so they can find themselves in a better position compared to seniors developers and to list the most frequently commented topics between juniors developers.
 
-# How to Find Youself
+# FAQs
 Do you want to learn more about:
 - [Data Types like Arrays, Linked Lists, Stacks, Queues, Trees, Hashs... ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#summary)
 - [OOP like Abstract Classes, Interfaces, Encapsulation, Inheritance, Polymorphism... ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#summary)
@@ -9,6 +9,11 @@ Do you want to learn more about:
 - [Development Principles like DRY, KISS, YAGNI, SOLID, GRASP and Clean Code ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#summary)
 - [Architecture Patterns like Dependency Injection, Containers, Gang Of Four ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#summary)
 - [Refactoring like Bloaters, Abusers, Dispensables and how to use them ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#summary)
+
+# Contributing
+If you want to contribute with this repo, simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
+
+I will review ASAP.
 
 # Structure
 All the knowledge contained in here, is disposed on these main topics: 
