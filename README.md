@@ -10,12 +10,12 @@ Do you want to know more about:
 - [Architecture Patterns like Dependency Injection, Containers, Gang Of Four ?](Architecture-Patterns)
 - [Refactoring like Bloaters, Abusers, Dispensables and how to use them ?](Refactoring)
 
-# Summary
+# Structure
 All the knowledge contained in here, is disposed on these main topics: 
 
-### 🖧 [Data Structure](Data-Structure)
-  - [General Concepts](Data-Structure#what-is-abstract-data-types)
-  - [Data Structure Examples](Data-Structure#data-structure-examples)
+### 🖧 [Data Structures](Data-Structures)
+  - [General Concepts](Data-Structures#what-is-abstract-data-types)
+  - [Data Structures Examples](Data-Structures#data-structure-examples)
 
 ### 🍳 [Dev. Concepts](Development-Concepts)
   - [OOP](Development-Concepts#object-oriented-programming)
