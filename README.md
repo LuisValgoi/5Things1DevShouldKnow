@@ -1,6 +1,6 @@
 # Five Things a Developer Should Know
 
-Five Things You Should Know Before Applying to a Developer-Job-Interview.
+Five Things a Developer Should Know.
 
 ## Motivation
 Besides to increase the knowledge of juniors developers so they can find themselves in a better position compared to seniors developers, the trigger for me creating this repo was to finish the DEVSWII @ Unisinos
