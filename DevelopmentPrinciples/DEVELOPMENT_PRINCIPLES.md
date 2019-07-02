@@ -1,3 +1,13 @@
+# 💡 Summary
+- [DRY (Dont Repeat Yourself)](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#dry-dont-repeat-yourself)
+- [KISS (Keep It Simple, Stupid!)](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#kiss-keep-it-simple-stupid)
+- [YAGNI (You aren't gonna need it)](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#yagni-you-arent-gonna-need-it)
+- [GRASP](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#grasp)
+- [S.O.L.I.D](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#solid)
+- [Clean Code](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#clean-code)
+---
+---
+---
 # DRY (Dont Repeat Yourself)
 * In the layered architecture approach DRY code is very essential for robust software development.
 * If you are developing and you are repeating a lot some part of the code, you probably could use a function for re use this code
