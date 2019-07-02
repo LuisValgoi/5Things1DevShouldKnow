@@ -58,3 +58,8 @@ All the knowledge contained in here, is disposed on these main topics:
 
 ### 🍰 Extras
   - [GIT](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/GIT/GIT.md#-summary)
+    - [What is Git](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/GIT/GIT.md#what-is-git)
+    - [You must know](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/GIT/GIT.md#you-must-know)
+    - [Most Used Comands](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/GIT/GIT.md#most-used-comands)
+    - [Branch View](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/GIT/GIT.md#branch-view)
+    - [Git Cheat Sheet](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/GIT/GIT.md#git-cheat-sheet)
