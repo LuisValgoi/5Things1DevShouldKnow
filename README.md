@@ -1,6 +1,10 @@
 # Motivation
 To increase the knowledge of juniors developers so they can find themselves in a better position compared to seniors developers and to list the most frequently commented topics between juniors developers.
 
+# Contributing
+If you want to contribute with this repo with a new comment, typo-fix, new content... simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
+
+
 # FAQs
 Do you want to learn more about:
 - [Data Types like Arrays, Linked Lists, Stacks, Queues, Trees, Hashs... ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#summary)
@@ -10,8 +14,6 @@ Do you want to learn more about:
 - [Architecture Patterns like Dependency Injection, Containers, Gang Of Four ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#summary)
 - [Refactoring like Bloaters, Abusers, Dispensables and how to use them ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#summary)
 
-# Contributing
-If you want to contribute with this repo with a new comment, typo-fix, new content... simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
 
 # Structure
 All the knowledge contained in here, is disposed on these main topics: 
