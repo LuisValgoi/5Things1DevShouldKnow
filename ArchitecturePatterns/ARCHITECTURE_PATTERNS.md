@@ -6,7 +6,9 @@
 - [Dependency Injection Container](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#dependency-injection-container)
 - [J2EE Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#j2ee-patterns)
 - [GoF Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns)
-
+---
+---
+---
 # What is a Design Pattern?
 * It represents the best practices used by experienced object-oriented software developers.
 * They are solutions to general problems that software developers faced during software development.
