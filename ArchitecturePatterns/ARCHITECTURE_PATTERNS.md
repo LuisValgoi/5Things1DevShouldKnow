@@ -1,3 +1,12 @@
+# 💡 Summary
+- [Design Pattern](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#what-is-a-design-pattern)
+- [Dependency](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#dependency)
+- [Dependency Injection](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#dependency-injection)
+- [Dependency Inversion Principle](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#dependency-inversion-principle)
+- [Dependency Injection Container](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#dependency-injection-container)
+- [J2EE Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#j2ee-patterns)
+- [GoF Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns)
+
 # What is a Design Pattern?
 * It represents the best practices used by experienced object-oriented software developers.
 * They are solutions to general problems that software developers faced during software development.
@@ -29,35 +38,35 @@ There are 23 patterns between 3 types which fluctuate between abstraction and gr
 
 # GoF Patterns - Creational
 These design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new operator.
-* [Abstract Factory](Architecture-Patterns#abstract-factory-pattern-creational)
-* [Builder](Architecture-Patterns#builder-pattern-creational)
-* [Factory](Architecture-Patterns#Architecture-Patterns#factory-pattern-creational)
-* [Prototype](Architecture-Patterns#prototype-pattern-creational)
-* [Singleton](Architecture-Patterns#singleton-pattern-creational)
+* [Abstract Factory](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#abstract-factory-pattern-creational)
+* [Builder](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#builder-pattern-creational)
+* [Factory](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#factory-pattern-creational)
+* [Prototype](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#prototype-pattern-creational)
+* [Singleton](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#singleton-pattern-creational)
 
 # GoF Patterns - Structural
 These design patterns concern class and object composition.
-  * [Adapter](Architecture-Patterns#adapter-pattern-structural)
-  * [Bridge](Architecture-Patterns#bridge-pattern-structural)
-  * [Composite](Architecture-Patterns#composite-pattern-structural)
-  * [Decorator](Architecture-Patterns#decorator-pattern-structural)
-  * [Facade](Architecture-Patterns#facade-pattern-structural)
-  * [Flyweight](Architecture-Patterns#flyweight-pattern-structural)
-  * [Proxy](Architecture-Patterns#proxy-pattern-structural)
+  * [Adapter](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#adapter-pattern-structural)
+  * [Bridge](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#bridge-pattern-structural)
+  * [Composite](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#composite-pattern-structural)
+  * [Decorator](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#decorator-pattern-structural)
+  * [Facade](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#facade-pattern-structural)
+  * [Flyweight](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#flyweight-pattern-structural)
+  * [Proxy](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#proxy-pattern-structural)
 
 # GoF Patterns - Behavioral
 These design patterns are specifically concerned with communication between objects.
-  * [Chain of Responsibility](Architecture-Patterns#chain-of-responsibility-behavior)
-  * [Command](Architecture-Patterns#command-behavior)
-  * [Interpreter](Architecture-Patterns#interpreter-pattern-behavior)
-  * [Iterator](Architecture-Patterns#iterator-pattern-behavior)
-  * [Mediator](Architecture-Patterns#mediator-pattern-behavior)
-  * [Memento](Architecture-Patterns#memento-pattern-behavior)
-  * [Observer](Architecture-Patterns#observer-pattern-behavior)
-  * [State](Architecture-Patterns#state-pattern-behavior)
-  * [Strategy](Architecture-Patterns#strategy-pattern-behavior)
-  * [Template Method](Architecture-Patterns#template-method-pattern-behavior)
-  * [Visitor](Architecture-Patterns#template-method-pattern-behavior)
+  * [Chain of Responsibility](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#chain-of-responsibility-behavior)
+  * [Command](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#command-behavior)
+  * [Interpreter](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#interpreter-pattern-behavior)
+  * [Iterator](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#iterator-pattern-behavior)
+  * [Mediator](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#mediator-pattern-behavior)
+  * [Memento](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#memento-pattern-behavior)
+  * [Observer](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#observer-pattern-behavior)
+  * [State](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#state-pattern-behavior)
+  * [Strategy](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#strategy-pattern-behavior)
+  * [Template Method](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#template-method-pattern-behavior)
+  * [Visitor](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#template-method-pattern-behavior)
 ---
 ---
 ---
