@@ -2,7 +2,7 @@
 To increase the knowledge of juniors developers so they can find themselves in a better position and to list the most frequently commented topics between juniors developers.
 
 # Contributing
-If you want to contribute with this repo with a new comment, typo-fix, new content... simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
+If you want to contribute with this repo with a *new comment*, *fix*, *new content* or etc... simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
 
 
 # Structure
