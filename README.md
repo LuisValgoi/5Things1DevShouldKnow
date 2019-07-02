@@ -55,3 +55,6 @@ All the knowledge contained in here, is disposed on these main topics:
     - [Organizing Data](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#organizing-data-link)
     - [Simplifying Cond. Exp](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#simplifying-conditional-expressions-link)
     - [Simplifying Method Calls](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#simplifying-method-calls-link)
+
+### 🍰 Extras
+  - [GIT](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/GIT/GIT.md#-summary)
