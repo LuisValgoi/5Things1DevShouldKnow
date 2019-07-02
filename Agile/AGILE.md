@@ -1,5 +1,16 @@
 # 💡 Summary
-- [What?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#what-should-i-refactor-it)
+- [Agile Project Management](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#agile-project-management)
+- [Agile Manifesto](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#agile-manifesto)
+- [Scrum](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#scrum)
+- [Scrum Framework](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#scrum-framework)
+- [Key Scrum Roles](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#key-scrum-roles)
+- [Daily Stand-up Meeting](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#daily-stand-up-meeting)
+- [MVP](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#mvp)
+- [User Stories](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#user-stories)
+- [Backlog Grooming](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#backlog-grooming)
+- [Roadmap](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#roadmap)
+- [Sprint Review](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#sprint-review)
+- [Retrospective](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Agile/AGILE.md#retrospective)
 ---
 ---
 ---
@@ -61,9 +72,6 @@
 - What did you do yesterday?
 - What are you going to do today?
 - Is anything blocking your progress?
-
-# Retrospective
-- Meeting for the team to reflect on how to improve.
 
 # MVP
 - It stands for Minimum Viable Product.
