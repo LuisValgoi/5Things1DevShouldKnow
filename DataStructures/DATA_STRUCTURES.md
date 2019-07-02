@@ -16,7 +16,7 @@
     - [Priority Queues](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#priority-queues)
     - [Heap](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#heap)
     - [Heap Sort](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#heap-sort)
-    - [HashTables / Dictionaries](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#)
+    - [HashTables / Dictionaries](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#hashtables--dictionaries)
 ---
 ---
 ---
