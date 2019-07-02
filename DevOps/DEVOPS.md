@@ -1,9 +1,9 @@
 # 💡 Summary
-- [Continuos Integration]()
-- [Continuous Delivery]()
-- [Continuous Deployment]()
-- [Overview of CD/CI]()
-- [How to do it]()
+- [Continuos Integration](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#continuos-integration)
+- [Continuous Delivery](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#continuous-delivery)
+- [Continuous Deployment](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#continuous-deployment)
+- [Overview of CD/CI](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#overview-of-cdci)
+- [How to do it](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevOps/DEVOPS.md#how-to-do-it)
 ---
 ---
 ---
