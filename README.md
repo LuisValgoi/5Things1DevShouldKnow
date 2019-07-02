@@ -11,9 +11,7 @@ Do you want to learn more about:
 - [Refactoring like Bloaters, Abusers, Dispensables and how to use them ?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#summary)
 
 # Contributing
-If you want to contribute with this repo, simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
-
-I will review ASAP.
+If you want to contribute with this repo with a new comment, typo-fix, new content... simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
 
 # Structure
 All the knowledge contained in here, is disposed on these main topics: 
