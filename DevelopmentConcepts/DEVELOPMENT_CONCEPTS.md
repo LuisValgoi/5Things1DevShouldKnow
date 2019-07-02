@@ -1,3 +1,12 @@
+# 💡 Summary
+- [OOP](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#object-oriented-programming)
+- [General](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#general)
+- [Graphic](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#graphic)
+- [Security](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#security)
+- [I18n & L10n](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#internationalization-i18n--localization-l10n)
+---
+---
+---
 # Object Oriented Programming
 
 ### **What is Behavior & State ?**

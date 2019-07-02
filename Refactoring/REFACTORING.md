@@ -1,3 +1,17 @@
+# 💡 Summary
+- [What?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#what-should-i-refactor-it)
+    - [Bloaters](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#bloaters)
+    - [OO Abusers](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#object-orientation-abusers)
+    - [Dispensables](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#dispensables)
+- [How?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#how-should-i-refactor-it)
+    - [Composing methods](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#composing-methods-link)
+    - [Moving Feat x Obj](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#moving-features-between-objects-link)
+    - [Organizing Data](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#organizing-data-link)
+    - [Simplifying Cond. Exp](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#simplifying-conditional-expressions-link)
+    - [Simplifying Method Calls](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#simplifying-method-calls-link)
+---
+---
+---
 # What should I Refactor it?
 
 ## Bloaters
