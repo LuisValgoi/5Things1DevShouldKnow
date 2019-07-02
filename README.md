@@ -18,18 +18,18 @@ Do you want to learn more about:
 # Structure
 All the knowledge contained in here, is disposed on these main topics: 
 
-### 🖧 [Data Structures](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#summary)
+### 🖧 [Data Structures](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#-summary)
   - [General Concepts](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#what-is-abstract-data-types)
   - [Data Structures Examples](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#data-structure-examples)
 
-### 🍳 [Dev. Concepts](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#summary)
+### 🍳 [Dev. Concepts](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#-summary)
   - [OOP](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#object-oriented-programming)
   - [General](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#general)
   - [Graphic](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#graphic)
   - [Security](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#security)
   - [I18n & L10n](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentConcepts/DEVELOPMENT_CONCEPTS.md#internationalization-i18n--localization-l10n)
 
-### 📚 [Dev. Principles](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#)
+### 📚 [Dev. Principles](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#-summary)
   - [DRY](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#dry-dont-repeat-yourself)
   - [KISS](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#kiss-keep-it-simple-stupid)
   - [YAGNI](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#yagni-you-arent-gonna-need-it)
@@ -37,14 +37,14 @@ All the knowledge contained in here, is disposed on these main topics:
   - [S.O.L.I.D](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#solid)
   - [Clean Code](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DevelopmentPrinciples/DEVELOPMENT_PRINCIPLES.md#clean-code)
 
-### 📐 [Architecture Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#summary)
+### 📐 [Architecture Patterns](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#-summary)
   - [What is](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#what-is-a-design-pattern)
   - [Dependency Injection](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#dependency)
   - [GoF Patterns Creational](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns---creational)
   - [GoF Patterns Structural](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns---structural)
   - [GoF Patterns Behavior](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/ArchitecturePatterns/ARCHITECTURE_PATTERNS.md#gof-patterns---behavioral)
 
-### 🔨 [Refactoring](Refactoring)
+### 🔨 [Refactoring](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#-summary)
   - [What?](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#what-should-i-refactor-it)
     - [Bloaters](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#bloaters)
     - [OO Abusers](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/Refactoring/REFACTORING.md#object-orientation-abusers)
