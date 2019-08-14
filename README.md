@@ -1,9 +1,20 @@
 # Motivation
 To increase the knowledge of juniors developers so they can find themselves in a better position and to list the most frequently commented topics between juniors developers.
 
-# Contributing
-If you want to contribute with this repo with a *new comment*, *fix*, *new content* or etc... simply opens a [pull request](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
+To set up a starting point to people which are looking to increase the knowledge on the development world.
 
+# FAQ
+* Do you want to know more about DRY / Object Oriented-Programming / Refactor, etc? 
+  * Check the [structure]() to see it.
+
+* Is it for me? 
+  * If you are a person which is tired to feel that you do not know where to look for the things, yes.
+
+* There is a typo, can I fix it?
+  * It is awesome to get your contribution, if you want add a *new comment*, *fix*, *new content* or etc... simply opens a [PR](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
+
+* What it accomplishes? 
+  * It has knowledge for developers and interested on that that want to have a base knowledge on the fundamentals topics mostly commented in the dev-world.
 
 # Structure
 All the knowledge contained in here, is disposed on these main topics: 
