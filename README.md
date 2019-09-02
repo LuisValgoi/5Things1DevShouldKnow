@@ -16,6 +16,9 @@ To set up a starting point to people which are looking to increase the knowledge
 * What it accomplishes? 
   * It has knowledge for developers and interested on that that want to have a base knowledge on the fundamentals topics mostly commented in the dev-world.
 
+# Also Based On
+[Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap#introduction)
+
 # Structure
 All the knowledge contained in here, is disposed on these main topics: 
 
