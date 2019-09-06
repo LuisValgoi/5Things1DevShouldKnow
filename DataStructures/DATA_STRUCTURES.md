@@ -45,9 +45,9 @@
 ## Linked Lists
 * It is a DS.
 * Dynamic Structure.
-* Allocated memory in run-time.
-* To navigate backwards is extremally difficult (Doubly Linked List is very good).
-* Has a pointers to the next node.
+* Allocates memory in run-time.
+* To navigate backwards is extremelly difficult (Doubly Linked List is very good).
+* Has a pointer to the next node.
 * **Operations:**
     * Find: O(n)
     * Add / Remove Beggining: O(1)
@@ -62,7 +62,7 @@
     * Remove Position: O(n)
 
 ## Stack
-* It is a ADT.
+* It is an ADT.
 * Basic operations: pop(), peek(), push().
 * LIFO Structure.
 * Most important app: Stack Memory
@@ -70,7 +70,7 @@
     * Push / Pop / Peek: O(1)
 
 ## Queue
-* It is a ADT.
+* It is an ADT.
 * Basic Operations: enqueue(), dequeue().
 * FIFO Structure.
 * Most important app: CPU Scheduling.
@@ -78,7 +78,7 @@
     * Enqueue / Dequeue : O(1)
 
 ## BST - Binary Search Trees
-* It is DS.
+* It is a DS.
 * Basic idea to reduce O(N) search to O(logN).
 * Is a binary search tree when each node have 2 distinguished sub-trees.
 * Might be Unbalanced.
@@ -94,8 +94,8 @@
 * We use them when we need to search a lot (because is rigidly balanced).
 * The heigth of two child subtrees of any node differ by at most one.
     * For that level, its root node can differ at most +1 or -1
-* AVL > ReedBlackTrees.
-* The only different operations is during the insertion.
+* AVL > RedBlackTrees.
+* The only different operation is during the insertion.
     * You must check if after the insertion, the binary tree is balanced.
 * **Most Used Apps:**
     * Operational Systems
@@ -104,16 +104,16 @@
 * Each node is red or black.
 * The root node is always black.
 * Every red node must have 2 black child node.
-* Every leaf is point to a NIL/NULL.
-* Every path from a give node contains to any of its descendent contains the same number of black nodes.
+* Every leaf points to NIL/NULL.
+* Every path from a given node to any of its descendants contains the same number of black nodes.
 * We use them when we need to insert/remove a lot (because is not rigidly balanced).
 
 ## Splay Tree
-* It is a type of a BST.
+* It is a type of BST.
 * Most O(logN) but some O(n)
 * It is not Strictly Balanced Data Structure.
-* Basically, the only difference is that when we fined the give node, we turn it into the root node (it is called SPLAYING).
-    * That happens because when we want to find it again, it is going to be O(1).
+* Basically, the only difference is that when we find the given node, we turn it into the root node (it is called SPLAYING).
+    * This happens because when we want to find it again, it is going to be O(1).
 * **Most Used Apps:**
     * Cache
 
@@ -122,7 +122,7 @@
 * Nodes might have more than 2 child.
 * Each node contains multiple keys.
 * It does not need balancing (but might waste some space).
-* Optmized for systems that Read and Write large blocks of the data.
+* Optimized for systems that Read and Write large blocks of the data.
 * **Most Used Apps:**
     * External Memory
 * **Operations:**
@@ -136,9 +136,9 @@
 
 ## Priority Queues
 * It is an ADT.
-* Every single value has a additional prop: Priority Value.
+* Every single value has an additional prop: Priority Value.
 * The priority number indicates which "node" is going to be the next.
-* In a Priority Queue, the high priority value (highest) comes first then the lower priority value (lowest).
+* In a Priority Queue, the higher priority value (highest) comes first then the lower priority value (lowest).
 * It is usually implemented with Heap.
 * Very similar to the Queue.
 * DESC (Max to Lowest).
@@ -151,18 +151,18 @@
 * It does not matter the smallest / highest read.
 * The only rule is that the parent must contains the MAX / MIN value.
 * Its completion works like that: ROOT, LEFT, RIGHT (Root > Left > Right > left of the L , right of the L, left of the R, right of the R).
-* We assign index to HEAP and we read it in a dimensional array.
+* We assign an index to HEAP and we read it in a dimensional array.
 * Root: "i" / Left Node: "2 * i + 1" / Right node: "2 * i + 2".
 * **Operations:**
     * Reconstruct: O(logN)
     * Insert: O(logN)
-    * Deletion: O(logN)
+    * Delete: O(logN)
     * Find MAX/MIN: O(1)
 
 ## Heap Sort
 * It is a sort algorithm (like QuickSort).
 * Uses HeapSort to find the MAX value.
-* It has a best worst case runtime.
+* It has the best worst case runtime.
 * If we find the item, we set it to visit (do not look for it again).
 * It is not a stable sort.
 * **Operations:**
