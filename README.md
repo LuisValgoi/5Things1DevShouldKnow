@@ -11,7 +11,7 @@ To set up a starting point to people which are looking to increase the knowledge
   * If you are a person which is tired to feel that you do not know where to look for the things, yes.
 
 * There is a typo, can I fix it?
-  * It is awesome to get your contribution, if you want add a *new comment*, *fix*, *new content* or etc... simply opens a [PR](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
+  * It is awesome to get your contribution, if you want add a *new comment*, *fix*, *new content* or etc... simply open a [PR](https://github.com/LuisValgoi/5Things1DevShouldKnow/compare).
 
 * What it accomplishes? 
   * It has knowledge for developers and interested on that that want to have a base knowledge on the fundamentals topics mostly commented in the dev-world.
@@ -20,7 +20,7 @@ To set up a starting point to people which are looking to increase the knowledge
 [Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap#introduction)
 
 # Structure
-All the knowledge contained in here, is disposed on these main topics: 
+All the knowledge contained in here is disposed on these main topics: 
 
 ### 🖧 [Data Structures](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#-summary)
   - [General Concepts](https://github.com/LuisValgoi/5Things1DevShouldKnow/blob/master/DataStructures/DATA_STRUCTURES.md#what-is-abstract-data-types)
