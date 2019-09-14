@@ -1,7 +1,5 @@
 # Motivation
-To increase the knowledge of juniors developers so they can find themselves in a better position and to list the most frequently commented topics between juniors developers.
-
-To set up a starting point to people which are looking to increase the knowledge on the development world.
+To increase the knowledge of juniors developers so they can find themselves in a better position and to list the most frequently commented topics between juniors developers & to set up a starting point to people which are looking to increase the knowledge on the development world.
 
 # FAQ
 * Do you want to know more about DRY / Object Oriented-Programming / Refactor, etc? 
