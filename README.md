@@ -16,6 +16,7 @@ To increase the knowledge of juniors developers so they can find themselves in a
 
 # Also Based On
 - [Developer RoadMap](https://github.com/kamranahmedse/developer-roadmap#introduction)
+
 ![image](https://user-images.githubusercontent.com/8363610/65287242-d02fc380-db18-11e9-9c04-eff2936c0fa2.png)
 
 # Structure
