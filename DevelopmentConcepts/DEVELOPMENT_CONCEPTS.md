@@ -10,8 +10,8 @@
 # Object Oriented Programming
 
 ### **What is Behavior & State ?**
-* States is declared in "fields".
-* Behaviors is declared in "methods".
+* States are declared in "fields" and are related to what your **objects** _are_.
+* Behaviors are declared in "methods" and are related to what your **objects** _do_.
 
 ### **What is Abstract ?**
 * Abstract Class are classes that provides some default states and implementations which it can be used when inherited.
